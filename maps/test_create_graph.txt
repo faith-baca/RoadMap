@@ -1,0 +1,6 @@
+Aurora Denver 30 highway 2
+Denver Boulder 40 highway 1
+Boulder Aurora 60 highway 3
+Aurora Lakewood 40 hill 2
+Lakewood Southlands 45 toll 1
+Southlands Boulder 75 arterial 2
